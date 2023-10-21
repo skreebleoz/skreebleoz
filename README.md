@@ -1,6 +1,4 @@
-- skreebleoz (pronounced skree ball ounce)
-- he/him
-- ^_^
+
 
 <!---
 skreebleoz/skreebleoz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
